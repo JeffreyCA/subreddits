@@ -3892,6 +3892,7 @@ thesims4
 Monero
 rollercoasters
 kings
+GaylorSwift
 saudiarabia
 UCSC
 XiaoMains
@@ -4384,4 +4385,3 @@ PSLF
 Rammstein
 canceledpod
 FrugalMaleFashionCDN
-regretfulparents
