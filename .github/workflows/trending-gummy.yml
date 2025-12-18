@@ -16,10 +16,17 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
+    - name: Install modified curl
+      run: |
+        curl -L -o curl-impersonate.tar.gz https://github.com/lexiforest/curl-impersonate/releases/download/v1.2.5/curl-impersonate-v1.2.5.x86_64-linux-gnu.tar.gz
+        mkdir -p $HOME/.local/bin
+        tar -xzf curl-impersonate.tar.gz -C $HOME/.local/bin
+        echo "$HOME/.local/bin" >> $GITHUB_PATH
+
     - name: Run gen_trending_gummy.sh daily
       run: bash scripts/gen_trending_gummy.sh daily > trending-gummy-daily.txt
 
-    - name: Run gen_trending_gummy.sh daily
+    - name: Run gen_trending_gummy.sh weekly
       run: bash scripts/gen_trending_gummy.sh weekly > trending-gummy-weekly.txt
 
     - name: Abort if empty
