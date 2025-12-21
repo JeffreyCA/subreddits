@@ -2744,7 +2744,6 @@ infp
 GalaxyS24Ultra
 thetagang
 askswitzerland
-BrownDust2Official
 uAlberta
 Oscars
 noveltranslations
@@ -4321,7 +4320,6 @@ menwritingwomen
 bioniclelego
 foraging
 tarot
-ChatGPTJailbreak
 FortniteXPMaps
 RWBYcritics
 MSsEcReTPoDcAsT
@@ -4382,3 +4380,5 @@ regretfulparents
 denverfood
 whatstheword
 Thunder
+GossipGirl
+ChronicPain
