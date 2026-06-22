@@ -28,7 +28,9 @@ jobs:
         python -m pip install -r requirements.txt
 
     - name: Run gen_trending_subriff.py
-      run: python scripts/gen_trending_subriff.py > trending-subriff-blended.txt
+      run: |
+        python scripts/gen_trending_subriff.py > trending-subriff-blended.txt.tmp
+        mv trending-subriff-blended.txt.tmp trending-subriff-blended.txt
 
     - name: Abort if empty
       run: |

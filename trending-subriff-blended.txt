@@ -1,8 +1,35 @@
-Warning: Failed to fetch medium-small/daily: 502 Server Error: Bad Gateway for url: https://subriff.com/Home/GetSubreddits?page=1&sizeFilter=medium-small&searchTerm=&sortBy=daily&growthType=percent&sortColumn=&sortDirection=&dateFilter=all&allowsPromotion=false&nsfw=false
-Warning: Failed to fetch medium-small/weekly: 502 Server Error: Bad Gateway for url: https://subriff.com/Home/GetSubreddits?page=1&sizeFilter=medium-small&searchTerm=&sortBy=weekly&growthType=percent&sortColumn=&sortDirection=&dateFilter=all&allowsPromotion=false&nsfw=false
-Warning: Failed to fetch medium/daily: 502 Server Error: Bad Gateway for url: https://subriff.com/Home/GetSubreddits?page=1&sizeFilter=medium&searchTerm=&sortBy=daily&growthType=percent&sortColumn=&sortDirection=&dateFilter=all&allowsPromotion=false&nsfw=false
-Warning: Failed to fetch medium/weekly: 502 Server Error: Bad Gateway for url: https://subriff.com/Home/GetSubreddits?page=1&sizeFilter=medium&searchTerm=&sortBy=weekly&growthType=percent&sortColumn=&sortDirection=&dateFilter=all&allowsPromotion=false&nsfw=false
-Warning: Failed to fetch large/daily: 502 Server Error: Bad Gateway for url: https://subriff.com/Home/GetSubreddits?page=1&sizeFilter=large&searchTerm=&sortBy=daily&growthType=percent&sortColumn=&sortDirection=&dateFilter=all&allowsPromotion=false&nsfw=false
-Warning: Failed to fetch large/weekly: 502 Server Error: Bad Gateway for url: https://subriff.com/Home/GetSubreddits?page=1&sizeFilter=large&searchTerm=&sortBy=weekly&growthType=percent&sortColumn=&sortDirection=&dateFilter=all&allowsPromotion=false&nsfw=false
-Warning: Failed to fetch xlarge/daily: 502 Server Error: Bad Gateway for url: https://subriff.com/Home/GetSubreddits?page=1&sizeFilter=xlarge&searchTerm=&sortBy=daily&growthType=percent&sortColumn=&sortDirection=&dateFilter=all&allowsPromotion=false&nsfw=false
-Warning: Failed to fetch xlarge/weekly: 502 Server Error: Bad Gateway for url: https://subriff.com/Home/GetSubreddits?page=1&sizeFilter=xlarge&searchTerm=&sortBy=weekly&growthType=percent&sortColumn=&sortDirection=&dateFilter=all&allowsPromotion=false&nsfw=false
+BoyDinnerDiaries
+FullJOIs2
+BakingNoobs
+GirlDinnerDiaries
+ReZero
+BunnyTrials
+worldcup
+AttractionDynamics
+Growthmindsetbookclub
+purnagurmeleri
+ElonCriticizesElon
+fuck_ai_slop
+obsessionmovie
+SpaceXBets
+WhatTheFuckIsThisSign
+lifelonglearning
+PokemonChampions
+usmnt
+turkishofszz
+sportsgossips
+AIJailbreak
+selfdevelopment
+NetflixDocumentaries
+weirdgirlliterature
+KanePixelsBackrooms
+CrownCoinsOfficial
+jobsearch
+AlignmentChartFills
+Weidian
+Selfie40Plus
+codex
+jobhunting
+okbuddycinephile
+howislivingthere
+LoveIslandUSA
