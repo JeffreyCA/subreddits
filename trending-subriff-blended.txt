@@ -4,8 +4,8 @@ CleanEating
 BoyDinnerDiaries
 DisasterUpdate
 MoralityScaling
-NewToReddit
 GirlDinnerDiaries
+teksikentekolur
 WhatIsTheTea
 LeopardsAteMyFarm
 LanternsTVSeries
@@ -13,6 +13,7 @@ ZeroCompany
 WarDogs
 LoveLetters
 InternationalStudents
+OnlineFriend
 GroundedMentality
 UnnecessaryEssentials
 MMALabs
@@ -22,10 +23,6 @@ classywomen
 IcedCoffee
 askteddit
 AmateurFoodPorn
-OnlineFriend
-Polygel
-PFSENSE
-earthisawesome
 lovethissmug
 Meowi
 OnceHumanOfficial
@@ -33,3 +30,6 @@ GTA6unmoderated
 cringereels
 SignsWithAStory
 MorpheApp
+NewToReddit
+videogames
+remotework
